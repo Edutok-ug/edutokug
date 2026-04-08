@@ -6,7 +6,7 @@ const CONFIG = {
         searchType: 'image'
     },
     groq: {
-        apiKey: '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',
+        apiKey: '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',
         model: 'llama-3.1-8b-instant',
         url: 'https://api.groq.com/openai/v1/chat/completions'
     },
